@@ -1,2 +1,2 @@
 # dawebproyecto
-Aca esta el proyecto de DAWeb
+Proyecto de DAWeb
